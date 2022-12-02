@@ -39,3 +39,4 @@ lerna-debug.log*
 # VARIABLES DE ENTORNO
 .env
 package-lock.json
+src/ecosystem.config.ts
